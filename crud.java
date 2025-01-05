@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 import java.sql.*;
 
-public class Main extends Application {
+public class crud extends Application {
 
     
     private static final String DB_URL = "";
